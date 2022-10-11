@@ -1,0 +1,14 @@
+kafka:
+  servers:
+    - kafka://localhost:9092
+
+mongo:
+  host: localhost
+  port: 20017
+  database: mongo
+  username: admin
+  password: admin_password
+
+service:
+  apiendpoint: https://www.alphavantage.co/
+  apikey: M6NWW8DO0MZ5W1KM

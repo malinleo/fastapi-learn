@@ -3,3 +3,24 @@ fastapi
 
 # Web server
 uvicorn
+
+# For api requests
+aiohttp
+
+# For logging
+loguru
+
+# Working with strings
+stringcase
+
+# For data processing
+pandas
+
+# Configuration provider
+sitri[all]
+
+# MongoDB async driver
+motor
+
+# For background tasks
+faust-streaming

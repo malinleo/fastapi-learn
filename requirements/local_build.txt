@@ -16,3 +16,6 @@ pre-commit
 # Gitlint is a git commit message linter written in python: it checks your commit messages for style.
 # https://jorisroovers.com/gitlint/
 gitlint
+
+# To compile dependencies
+pip-tools
